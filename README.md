@@ -2,6 +2,7 @@
 
 This is a Go-based Weather API service that provides weather data for a given city using the [Visual Crossing Weather API](https://www.visualcrossing.com/). The service caches the results in Redis for faster responses and efficient resource usage.
 
+Project URL: https://roadmap.sh/projects/weather-api-wrapper-service
 ---
 
 ## Features
